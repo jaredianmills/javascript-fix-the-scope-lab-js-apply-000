@@ -9,7 +9,8 @@ function yourAnimal() {
   return animal
 }
 
-
+console.log(animal)
+console.log(yourAnimal())
 
 function add2(n) {
   return n + two
